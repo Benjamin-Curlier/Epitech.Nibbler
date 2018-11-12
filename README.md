@@ -1,1 +1,2 @@
-Epitech.Nibbler
+# Epitech - Nibbler
+

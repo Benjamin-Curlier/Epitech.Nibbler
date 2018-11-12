@@ -1,0 +1,100 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+<<<<<<< HEAD
+=======
+>>>>>>> decc7bca0745e694a5e0f6c8e9b87d5d663ce8c1
+Close	/home/ambroi_s/rendu/cpp_nibbler/SDL/graph.h	/^void Close();$/;"	p	signature:()
+Do	/home/ambroi_s/rendu/cpp_nibbler/SDL/graph.h	/^void Do(char*);$/;"	p	signature:(char*)
+GRAPH_H_	/home/ambroi_s/rendu/cpp_nibbler/SDL/graph.h	12;"	d
+Game	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^Game::Game(int width, int height)$/;"	f	class:Game	signature:(int width, int height)
+Game	/home/ambroi_s/rendu/cpp_nibbler/game.cpp	/^Game::Game(Snake snake, string map, t_pos m)$/;"	f	class:Game	signature:(Snake snake, string map, t_pos m)
+Game::Game	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^Game::Game(int width, int height)$/;"	f	class:Game	signature:(int width, int height)
+Game::Game	/home/ambroi_s/rendu/cpp_nibbler/game.cpp	/^Game::Game(Snake snake, string map, t_pos m)$/;"	f	class:Game	signature:(Snake snake, string map, t_pos m)
+Game::getIsacceleration	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^bool	Game::getIsacceleration()$/;"	f	class:Game	signature:()
+Game::getIsxgrow	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^bool	Game::getIsxgrow()$/;"	f	class:Game	signature:()
+Game::getName	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^std::string	Game::getName()$/;"	f	class:Game	signature:()
+Game::getScore	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^int	Game::getScore()$/;"	f	class:Game	signature:()
+Game::launch	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^void Game::launch(std::string map)$/;"	f	class:Game	signature:(std::string map)
+Game::launch_IA	/home/ambroi_s/rendu/cpp_nibbler/Game4.cpp	/^void	Game::launch_IA(std::string map)$/;"	f	class:Game	signature:(std::string map)
+Game::put_food	/home/ambroi_s/rendu/cpp_nibbler/game.cpp	/^void	Game::put_food(string str,
+Game::round	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^std::string	Game::round(Snake *snake, char *food, std::string str, long *b, bool *d, int *grow)$/;"	f	class:Game	signature:(Snake *snake, char *food, std::string str, long *b, bool *d, int *grow)
+Game::setIsacceleration	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^void	Game::setIsacceleration(bool a)$/;"	f	class:Game	signature:(bool a)
+Game::setIsxgrow	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^void	Game::setIsxgrow(bool a)$/;"	f	class:Game	signature:(bool a)
+Game::setName	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^void	Game::setName(std::string name)$/;"	f	class:Game	signature:(std::string name)
+Game::setScore	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^void	Game::setScore(int score)$/;"	f	class:Game	signature:(int score)
+Game::~Game	/home/ambroi_s/rendu/cpp_nibbler/Game.cpp	/^Game::~Game()$/;"	f	class:Game	signature:()
+Graphic	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^Graphic::Graphic(std::string libName)$/;"	f	class:Graphic	signature:(std::string libName)
+Graphic::Graphic	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^Graphic::Graphic(std::string libName)$/;"	f	class:Graphic	signature:(std::string libName)
+Graphic::displayEnd	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayEnd(int y, int x)$/;"	f	class:Graphic	signature:(int y, int x)
+Graphic::displayGame	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayGame(int y, int x, char *map, Snake *s)$/;"	f	class:Graphic	signature:(int y, int x, char *map, Snake *s)
+Graphic::displayGame_two_player	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayGame_two_player(int y, int x, char *map, Snake *s, Snake *s2)$/;"	f	class:Graphic	signature:(int y, int x, char *map, Snake *s, Snake *s2)
+Graphic::displayMenu	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayMenu(int y, int x, char a)$/;"	f	class:Graphic	signature:(int y, int x, char a)
+Graphic::displayOption	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayOption(int y, int x, char a)$/;"	f	class:Graphic	signature:(int y, int x, char a)
+Graphic::getInput	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^void Graphic::getInput(char *t)$/;"	f	class:Graphic	signature:(char *t)
+Graphic::getInputGame	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::getInputGame(char *t)$/;"	f	class:Graphic	signature:(char *t)
+Graphic::getInput_two_player	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^void Graphic::getInput_two_player(char *t, char *t2)$/;"	f	class:Graphic	signature:(char *t, char *t2)
+Graphic::init	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^void Graphic::init(int y, int x)$/;"	f	class:Graphic	signature:(int y, int x)
+Graphic::~Graphic	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^Graphic::~Graphic()$/;"	f	class:Graphic	signature:()
+Menu	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^Menu::Menu(int width, int height)$/;"	f	class:Menu	signature:(int width, int height)
+Menu::Menu	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^Menu::Menu(int width, int height)$/;"	f	class:Menu	signature:(int width, int height)
+Menu::getMap	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^std::string	Menu::getMap() const$/;"	f	class:Menu	signature:() const
+Menu::getMulti	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^bool	Menu::getMulti() const$/;"	f	class:Menu	signature:() const
+Menu::getScore	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^std::map<std::string, int> Menu::getScore() const$/;"	f	class:Menu	signature:() const
+Menu::options	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^void 	Menu::options()$/;"	f	class:Menu	signature:()
+Menu::setMap	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^void	Menu::setMap(std::string map)$/;"	f	class:Menu	signature:(std::string map)
+Menu::setMulti	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^void	Menu::setMulti(bool a)$/;"	f	class:Menu	signature:(bool a)
+Menu::start	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^void	Menu::start()$/;"	f	class:Menu	signature:()
+Menu::~Menu	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^Menu::~Menu()$/;"	f	class:Menu	signature:()
+addMediaPos	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void			addMediaPos(int x, int y, std::string path)$/;"	f	signature:(int x, int y, std::string path)
+close	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void 			close()$/;"	f	signature:()
+create	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" int 			create(int height, int width)$/;"	f	signature:(int height, int width)
+create_map	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void			create_map(char *map, int width)$/;"	f	signature:(char *map, int width)
+create_t	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^typedef int (*create_t)(int,int);$/;"	t	file:
+display	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^Graphic *display;$/;"	v
+displayEnd	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayEnd(int y, int x)$/;"	f	class:Graphic	signature:(int y, int x)
+displayGame	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayGame(int y, int x, char *map, Snake *s)$/;"	f	class:Graphic	signature:(int y, int x, char *map, Snake *s)
+displayGame_two_player	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayGame_two_player(int y, int x, char *map, Snake *s, Snake *s2)$/;"	f	class:Graphic	signature:(int y, int x, char *map, Snake *s, Snake *s2)
+displayMenu	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayMenu(int y, int x, char a)$/;"	f	class:Graphic	signature:(int y, int x, char a)
+displayOption	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::displayOption(int y, int x, char a)$/;"	f	class:Graphic	signature:(int y, int x, char a)
+end	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			end(int height, int width)$/;"	f	signature:(int height, int width)
+func2_t	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^typedef bool (*func2_t)(int,int);$/;"	t	file:
+func_t	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^typedef bool (*func_t)(int,int, char);$/;"	t	file:
+gScreenSurface	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^SDL_Surface* gScreenSurface = NULL;$/;"	v
+gStretchedSurface	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^SDL_Surface* gStretchedSurface = NULL;$/;"	v
+gWindow	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^SDL_Window* gWindow = NULL;$/;"	v
+game	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			game(int height, int width, char *map,std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction)$/;"	f	signature:(int height, int width, char *map,std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction)
+game_t	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^typedef bool (*game_t)(int,int,char*,std::vector<std::pair<int,int> >*, std::pair<int,int>*, char);$/;"	t	file:
+game_two_player	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			game_two_player(int height, int width, char *map,std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction, std::vector<std::pair<int,int> > *caca2, std::pair<int,int> *poshead2, char direction2)$/;"	f	signature:(int height, int width, char *map,std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction, std::vector<std::pair<int,int> > *caca2, std::pair<int,int> *poshead2, char direction2)
+game_two_player_t	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^typedef bool (*game_two_player_t)(int,int,char*,std::vector<std::pair<int,int> >*, std::pair<int,int>*, char,std::vector<std::pair<int,int> >*, std::pair<int,int>*, char);$/;"	t	file:
+getInput	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^void Graphic::getInput(char *t)$/;"	f	class:Graphic	signature:(char *t)
+getInput	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" void			getInput(char *touch)$/;"	f	signature:(char *touch)
+getInputGame	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^bool Graphic::getInputGame(char *t)$/;"	f	class:Graphic	signature:(char *t)
+getInputGame_t	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^typedef bool (*getInputGame_t)(char*);$/;"	t	file:
+getInput_t	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^typedef void (*getInput_t)(char*);$/;"	t	file:
+getInput_two_player	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^void Graphic::getInput_two_player(char *t, char *t2)$/;"	f	class:Graphic	signature:(char *t, char *t2)
+getInput_two_player	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" void			getInput_two_player(char *touch, char *touch2)$/;"	f	signature:(char *touch, char *touch2)
+getInput_two_player_t	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^typedef void (*getInput_two_player_t)(char*, char*);$/;"	t	file:
+getMap	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^std::string	Menu::getMap() const$/;"	f	class:Menu	signature:() const
+getMulti	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^bool	Menu::getMulti() const$/;"	f	class:Menu	signature:() const
+getScore	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^std::map<std::string, int> Menu::getScore() const$/;"	f	class:Menu	signature:() const
+init	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^void Graphic::init(int y, int x)$/;"	f	class:Graphic	signature:(int y, int x)
+init	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void	 		init(int height, int width)$/;"	f	signature:(int height, int width)
+launch_IA	/home/ambroi_s/rendu/cpp_nibbler/Game4.cpp	/^void	Game::launch_IA(std::string map)$/;"	f	class:Game	signature:(std::string map)
+loadMedia	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void 			loadMedia(std::string path)$/;"	f	signature:(std::string path)
+loadSurface	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^SDL_Surface* 		loadSurface(std::string path)$/;"	f	signature:(std::string path)
+main	/home/ambroi_s/rendu/cpp_nibbler/main.cpp	/^int	main(int ac, char **av)$/;"	f	signature:(int ac, char **av)
+menu	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			menu(int height, int width, char touch)$/;"	f	signature:(int height, int width, char touch)
+option	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			option(int height, int width, char touch)$/;"	f	signature:(int height, int width, char touch)
+options	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^void 	Menu::options()$/;"	f	class:Menu	signature:()
+setMap	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^void	Menu::setMap(std::string map)$/;"	f	class:Menu	signature:(std::string map)
+setMulti	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^void	Menu::setMulti(bool a)$/;"	f	class:Menu	signature:(bool a)
+split	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^std::vector<std::string> &split(std::string s, char delim, std::vector<std::string> &elems) $/;"	f	signature:(std::string s, char delim, std::vector<std::string> &elems)
+split	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^std::vector<std::string> split(const std::string &s, char delim) $/;"	f	signature:(const std::string &s, char delim)
+start	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^void	Menu::start()$/;"	f	class:Menu	signature:()
+where_is_snake	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void			where_is_snake(std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction)$/;"	f	signature:(std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction)
+~Graphic	/home/ambroi_s/rendu/cpp_nibbler/Graphic.cpp	/^Graphic::~Graphic()$/;"	f	class:Graphic	signature:()
+~Menu	/home/ambroi_s/rendu/cpp_nibbler/Menu.cpp	/^Menu::~Menu()$/;"	f	class:Menu	signature:()

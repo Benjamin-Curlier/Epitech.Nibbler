@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+addMediaPos	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void			addMediaPos(int x, int y, std::string path)$/;"	f	signature:(int x, int y, std::string path)
+close	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void 			close()$/;"	f	signature:()
+create	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" int 			create(int height, int width)$/;"	f	signature:(int height, int width)
+create_map	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void			create_map(char *map, int width)$/;"	f	signature:(char *map, int width)
+end	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			end(int height, int width)$/;"	f	signature:(int height, int width)
+gScreenSurface	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^SDL_Surface* gScreenSurface = NULL;$/;"	v
+gStretchedSurface	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^SDL_Surface* gStretchedSurface = NULL;$/;"	v
+gWindow	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^SDL_Window* gWindow = NULL;$/;"	v
+game	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			game(int height, int width, char *map,std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction)$/;"	f	signature:(int height, int width, char *map,std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction)
+getInput	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" void			getInput(char *touch)$/;"	f	signature:(char *touch)
+getInputlol	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			getInputlol(char *touch)$/;"	f	signature:(char *touch)
+init	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void	 		init(int height, int width)$/;"	f	signature:(int height, int width)
+loadMedia	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void 			loadMedia(std::string path)$/;"	f	signature:(std::string path)
+loadSurface	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^SDL_Surface* 		loadSurface(std::string path)$/;"	f	signature:(std::string path)
+menu	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^extern "C" bool			menu(int height, int width)$/;"	f	signature:(int height, int width)
+where_is_snake	/home/ambroi_s/rendu/cpp_nibbler/SDL/SDL_snake.cpp	/^void			where_is_snake(std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction)$/;"	f	signature:(std::vector<std::pair<int,int> > *caca, std::pair<int,int> *poshead, char direction)
